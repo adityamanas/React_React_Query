@@ -1,0 +1,163 @@
+{
+	"superheroes": [
+		{
+			"id": 1,
+			"name": "Batman",
+			"alterEgo": "Bruce Wayne"
+		},
+		{
+			"id": 2,
+			"name": "Superman",
+			"alterEgo": "Clark Kent"
+		},
+		{
+			"id": 3,
+			"name": "Wonder Woman",
+			"alterEgo": "Princess Diana"
+		},
+		{
+			"id": 4
+		},
+		{
+			"id": 5
+		},
+		{
+			"id": 6
+		},
+		{
+			"id": 7
+		},
+		{
+			"id": 8
+		},
+		{
+			"id": 9
+		},
+		{
+			"id": 10
+		},
+		{
+			"id": 11
+		},
+		{
+			"id": 12
+		},
+		{
+			"id": 13
+		},
+		{
+			"id": 14
+		},
+		{
+			"id": 15
+		},
+		{
+			"id": 16
+		},
+		{
+			"id": 17
+		},
+		{
+			"id": 18
+		},
+		{
+			"id": 19
+		},
+		{
+			"id": 20
+		},
+		{
+			"id": 21
+		},
+		{
+			"id": 22
+		},
+		{
+			"id": 23
+		},
+		{
+			"id": 24
+		},
+		{
+			"id": 25
+		},
+		{
+			"id": 26
+		},
+		{
+			"id": 27
+		},
+		{
+			"id": 28
+		},
+		{
+			"id": 29
+		},
+		{
+			"id": 30
+		},
+		{
+			"id": 31
+		},
+		{
+			"id": 32
+		},
+		{
+			"id": 33
+		},
+		{
+			"id": 34
+		}
+	],
+	"friends": [
+		{
+			"id": 1,
+			"name": "bro",
+			"alterEgo": "Bruce "
+		},
+		{
+			"id": 2,
+			"name": "dude",
+			"alterEgo": "Clark Kent"
+		},
+		{
+			"id": 3,
+			"name": "Woman",
+			"alterEgo": "Princess"
+		}
+	],
+	"colors": [
+		{
+			"id": 1,
+			"label": "red"
+		},
+		{
+			"id": 2,
+			"label": "blue"
+		},
+		{
+			"id": 3,
+			"label": "green"
+		},
+		{
+			"id": 4,
+			"label": "yellow"
+		},
+		{
+			"id": 5,
+			"label": "black"
+		},
+		{
+			"id": 6,
+			"label": "white"
+		},
+		{
+			"id": 7,
+			"label": "orange"
+		},
+		{
+			"id": 8,
+			"label": "purple"
+		}
+	]
+}
